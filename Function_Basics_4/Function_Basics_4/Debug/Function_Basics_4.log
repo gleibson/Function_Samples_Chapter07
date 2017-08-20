@@ -1,0 +1,4 @@
+﻿  lotto.cpp
+c:\users\gleibson\documents\visual studio 2015\projects\function_basics_4\function_basics_4\lotto.cpp(13): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+  Function_Basics_4.vcxproj -> C:\Users\gleibson\Documents\Visual Studio 2015\Projects\Function_Basics_4\Debug\Function_Basics_4.exe
+  Function_Basics_4.vcxproj -> C:\Users\gleibson\Documents\Visual Studio 2015\Projects\Function_Basics_4\Debug\Function_Basics_4.pdb (Partial PDB)

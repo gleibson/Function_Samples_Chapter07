@@ -1,0 +1,4 @@
+﻿  Function_Basics_2.cpp
+c:\users\gleibson\documents\visual studio 2015\projects\function_basiscs_2\function_basiscs_2\function_basics_2.cpp(15): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Function_Basiscs_2.vcxproj -> C:\Users\gleibson\Documents\Visual Studio 2015\Projects\Function_Basiscs_2\Debug\Function_Basiscs_2.exe
+  Function_Basiscs_2.vcxproj -> C:\Users\gleibson\Documents\Visual Studio 2015\Projects\Function_Basiscs_2\Debug\Function_Basiscs_2.pdb (Partial PDB)
